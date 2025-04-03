@@ -1,0 +1,10 @@
+[gd_scene load_steps=4 format=3 uid="uid://on5rj0p8t15o"]
+
+[ext_resource type="Script" uid="uid://c7l1dtvl6b4ub" path="res://src/main.gd" id="1_fyndt"]
+[ext_resource type="PackedScene" uid="uid://2ro3f0tmccri" path="res://src/title_screen.tscn" id="2_kmhfv"]
+[ext_resource type="PackedScene" uid="uid://rc11ooima81g" path="res://src/game.tscn" id="3_5q4o7"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_fyndt")
+title_screen = ExtResource("2_kmhfv")
+game = ExtResource("3_5q4o7")

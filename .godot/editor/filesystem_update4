@@ -1,0 +1,8 @@
+res://src/main.tscn
+res://src/title_screen.tscn
+res://src/player.tscn
+res://src/asteroid.tscn
+res://src/proyectile.tscn
+res://src/game.tscn
+res://src/asteroid_spawner.gd
+res://src/game.gd
